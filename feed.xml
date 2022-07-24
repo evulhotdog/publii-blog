@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Ramblings</title>
-    <link href="https://evulhotdog.github.io/publii-blog/feed.xml" rel="self" />
-    <link href="https://evulhotdog.github.io/publii-blog" />
+    <link href="https://blog.bdav.is/feed.xml" rel="self" />
+    <link href="https://blog.bdav.is" />
     <updated>2022-07-24T12:01:26-04:00</updated>
     <author>
         <name>Brian Davis</name>
     </author>
-    <id>https://evulhotdog.github.io/publii-blog</id>
+    <id>https://blog.bdav.is</id>
 
     <entry>
         <title>The first</title>
         <author>
             <name>Brian Davis</name>
         </author>
-        <link href="https://evulhotdog.github.io/publii-blog/the-first.html"/>
-        <id>https://evulhotdog.github.io/publii-blog/the-first.html</id>
+        <link href="https://blog.bdav.is/the-first.html"/>
+        <id>https://blog.bdav.is/the-first.html</id>
 
         <updated>2022-07-24T12:01:26-04:00</updated>
             <summary>

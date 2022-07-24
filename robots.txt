@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://evulhotdog.github.io/publii-blog/sitemap.xml
+Sitemap: https://blog.bdav.is/sitemap.xml
