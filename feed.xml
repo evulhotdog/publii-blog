@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Ramblings</title>
+    <title>Brian Davis&#x27;s Ramblings</title>
     <link href="https://blog.bdav.is/feed.xml" rel="self" />
     <link href="https://blog.bdav.is" />
     <updated>2022-07-24T12:01:26-04:00</updated>
@@ -14,8 +14,8 @@
         <author>
             <name>Brian Davis</name>
         </author>
-        <link href="https://blog.bdav.is/the-first.html"/>
-        <id>https://blog.bdav.is/the-first.html</id>
+        <link href="https://blog.bdav.is/the-first/"/>
+        <id>https://blog.bdav.is/the-first/</id>
 
         <updated>2022-07-24T12:01:26-04:00</updated>
             <summary>

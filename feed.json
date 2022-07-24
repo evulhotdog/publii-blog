@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Ramblings",
+    "title": "Brian Davis&#x27;s Ramblings",
     "description": "",
     "home_page_url": "https://blog.bdav.is",
     "feed_url": "https://blog.bdav.is/feed.json",
@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://blog.bdav.is/the-first.html",
-            "url": "https://blog.bdav.is/the-first.html",
+            "id": "https://blog.bdav.is/the-first/",
+            "url": "https://blog.bdav.is/the-first/",
             "title": "The first",
             "summary": "I have thought about creating a blog for a while, and this is now my opportunity to tackle it for borderline-free, without needing to worry about any of the real management. Here's to some future posts!",
             "content_html": "<p>I have thought about creating a blog for a while, and this is now my opportunity to tackle it for borderline-free, without needing to worry about any of the real management. Here's to some future posts!</p>",
